@@ -1,0 +1,119 @@
+Station: stations_group_2004.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_2005.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_2002.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_2003.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_2001.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_2000.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1988.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1989.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1999.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1998.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1995.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1994.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1996.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1997.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1993.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1987.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1986.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1992.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1990.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
+
+Station: stations_group_1991.csv
+Summer: No data
+Autumn: No data
+Winter: No data
+Spring: No data
